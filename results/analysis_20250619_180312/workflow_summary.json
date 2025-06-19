@@ -1,0 +1,18 @@
+{
+  "analysis_date": "2025-06-19T18:03:25.258096",
+  "time_window": "Q",
+  "processed_projects": [
+    "mindsdb",
+    "river",
+    "librosa",
+    "gensim",
+    "pandas",
+    "scikit-learn",
+    "pytorch-lightning",
+    "yolov5",
+    "detectron2",
+    "transformers"
+  ],
+  "failed_projects": [],
+  "total_projects": 10
+}
